@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
     ListView MainActivityListView;
     String[] MainActivityChoicesText;
+    //String[] ChoiceArray;
+
 
 
 
@@ -24,7 +26,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //Begin Code for Main
 
-        Resources res = getResources();
+        final Resources res = getResources();
+
         MainActivityListView = (ListView)findViewById(R.id.MainMenuListView);
         MainActivityChoicesText = res.getStringArray(R.array.MainActivityChoicesText);
 
@@ -33,22 +36,9 @@ public class MainActivity extends AppCompatActivity {
         MainActivityListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
-                switch(position){
-                    case 0:
-                        //launch activity affiliated with choice 0
-                            Intent intentDiceRoller = new Intent(MainActivity.this, DiceRollerActivity.class);
-                            startActivity(intentDiceRoller);
-                        break;
-                    case 1:
-                        //launch activity affiliated with choice 1
-                        Intent intentNPCGenerator = new Intent(MainActivity.this, NPCGeneratorActivity.class);
-                        startActivity(intentNPCGenerator);
-                        break;
-                    case 2:
-                        Intent intentLootGenerator = new Intent(MainActivity.this, LootGeneratorActivity.class);
-                        startActivity(intentLootGenerator);
-                        break;
-                }
+                Intent intent = new Intent();
+                final String[] ChoiceArray = res.getStringArray(R.array.MainActivityChoicesClasses);
+                intent.setClassName(getApplicationContext(),ChoiceArray[position]);
             }
         });
 
