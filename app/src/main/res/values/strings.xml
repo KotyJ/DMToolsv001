@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DMToolsv001</string>
+    <string-array name="MainActivityChoicesText">
+        <item>Dice Roller</item>
+        <item>NPC Generator</item>
+        <item>Loot Generator</item>
+    </string-array>
+
+
 </resources>
