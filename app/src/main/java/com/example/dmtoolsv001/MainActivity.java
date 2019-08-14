@@ -15,10 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     ListView MainActivityListView;
     String[] MainActivityChoicesText;
-    //String[] ChoiceArray;
-
-
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
