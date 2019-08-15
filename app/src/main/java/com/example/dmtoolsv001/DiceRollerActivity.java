@@ -45,7 +45,7 @@ public class DiceRollerActivity extends AppCompatActivity {
         Quantity = 0;
         Modifier = 0;
         Total = 0;
-        DieSize = 0;
+        DieSize = 20;
 
         //get text info from XML to Java
         DiceToRollEditText = findViewById(R.id.DiceToRollEditText);
@@ -222,9 +222,11 @@ public class DiceRollerActivity extends AppCompatActivity {
 
     public void PaintButtonGray(Button Button){
         Button.setBackgroundColor(getResources().getColor(R.color.gray));
+        Button.setTextColor(getResources().getColor(R.color.black));
     }
 
     public void PaintButtonBlue(Button Button){
         Button.setBackgroundColor(getResources().getColor(R.color.blue));
+        Button.setTextColor(getResources().getColor(R.color.white));
     }
 }

@@ -2,16 +2,16 @@
     <string name="app_name">DMToolsv001</string>
     <string-array name="MainActivityChoicesText">
         <item>Dice Roller</item>
-        <item>Spell Generator</item>
+        <item>Random Spell</item>
         <item>NPC Generator</item>
         <item>Loot Generator</item>
     </string-array>
 
     <string-array name="MainActivityChoicesClasses">
-        <item>DiceRollerActivity</item>
-        <item>RandomSpellActivity</item>
-        <item>NPCGeneratorActivity</item>
-        <item>LootGeneratorActivity</item>
+        <item>com.example.dmtoolsv001.DiceRollerActivity</item>
+        <item>com.example.dmtoolsv001.RandomSpellActivity</item>
+        <item>com.example.dmtoolsv001.NPCGeneratorActivity</item>
+        <item>com.example.dmtoolsv001.LootGeneratorActivity</item>
     </string-array>
 
 </resources>

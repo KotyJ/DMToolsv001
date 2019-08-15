@@ -34,8 +34,9 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
                 Intent intent = new Intent();
                 final String[] ChoiceArray = res.getStringArray(R.array.MainActivityChoicesClasses);
-                intent.setClassName(getApplicationContext(),ChoiceArray[position]);
-            }
+                intent.setClassName(getApplicationContext(), ChoiceArray[position]);
+                startActivity(intent);
+        }
         });
 
     }
