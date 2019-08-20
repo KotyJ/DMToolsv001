@@ -6,6 +6,7 @@ import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 
 import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 public class BackgroundOperations {
@@ -14,91 +15,65 @@ public class BackgroundOperations {
         int total = 0;
 
         for(int i = 1; i <= quantity; i++){
-                int roll = new Random().nextInt(size)+1;
-                total += roll;
-                results[i] = roll;
-            }
+            int roll = new Random().nextInt(size)+1;
+            total += roll;
+            results[i] = roll;
+        }
         results[0] = total;
         return results;
     }
 
-    public ArrayList<String> InternalNPCGenerator(String race, String sex){
-        //Define GeneratedNPCArrayList that will hold values to return
-        ArrayList<String> GeneratedNPCArrayList = new ArrayList<>(3);
-        /*
-        * 0: First Name
-        * 1: Last Name
-        * 2: Sex
-        * 3: Race
-        *
-        *
-        *
-        * */
-        //Add Race and Sex to GeneratedNPCArrayList
-        GeneratedNPCArrayList.set(2,sex);
-        GeneratedNPCArrayList.set(3,race);
+    public SpellEntry GetSpellMethod(int UserInputLevel, String UserInputSchoolOfMagic, String UserInputCharacterClass){
+        //Create SpellEntry ListArray
+        List<SpellEntry> FullSpellList = new ArrayList<SpellEntry>();
 
-        //Create first name based on race and sex;
-        switch(race){
-            case "human":
-                if(sex == "male"){
-                    //Set first name to one of the human male names
-                } else if(sex == "female"){
-                    //Set first name to one of the human female names
-                }
 
-                //set last name to human last name
+        //This is the list of all available spells
+        FullSpellList.add(new SpellEntry(0,"Abi-Dalzim's Horrid Wilting", "Necromancy", new String[]{}));
 
-                break;
-            case "dragonborn":
-                if(sex == "male"){
-                    //Set first name to one of the dragonborn male names
-                } else if(sex == "female"){
-                    //Set first name to one of the dragonborn female names
-                }
+        return RandomSpellGeneratorMethod(FullSpellList, UserInputLevel, UserInputSchoolOfMagic, UserInputCharacterClass);
 
-                //set last name to dragonborn last name
+    }
 
-                break;
-            case "dwarf":
+    public static SpellEntry RandomSpellGeneratorMethod(List<SpellEntry> spells, int UserInputLevel, String UserInputSchoolOfMagic, String UserInputCharacterClass){
 
-                if(sex == "male"){
-                    //Set first name to one of the dwarf male names
-                } else if(sex == "female"){
-                    //Set first name to one of the dwarf female names
-                }
+        //Make an array of Spells as Big as the List
+        SpellEntry spell_arr[] = new SpellEntry[spells.size()];
+        int NumberOfFoundSpells = 0; // used to count how many spells we found
 
-                //set last name to dwarf last name
+        //Iterate over the List and Check for the Matching criteria
+        for (int i = 0; i < spells.size(); i++) {
+            if ((spells.get(i).getLevel() == UserInputLevel) && ((spells.get(i).hasClass(UserInputCharacterClass) || UserInputCharacterClass.equalsIgnoreCase("any"))) && ((spells.get(i).getSchoolOfMagic().equalsIgnoreCase(UserInputSchoolOfMagic)) || UserInputSchoolOfMagic.equalsIgnoreCase("any"))) {
+                spell_arr[i] = spells.get(i);
+                NumberOfFoundSpells++;
+            }
+        }
 
-                break;
-            case "elf":
-
-                if(sex == "male"){
-                    //Set first name to one of the elf male names
-                } else if(sex == "female"){
-                    //Set first name to one of the elf female names
-                }
-
-                //set last name to elf last name
-
-                break;
-            case "halfling":
-
-                if(sex == "male"){
-                    //Set first name to one of the halfling male names
-                } else if(sex == "female"){
-                    //Set first name to one of the halfling female names
-                }
-
-                //set last name to halfling last name
-
-                break;
+        //No spells could be found, sad
+        if (NumberOfFoundSpells == 0) {
+            System.out.println("No spells could be found");
+            return null;
         }
 
 
+        //Put all the found spells in a new Array
+        SpellEntry finalArr[] = new SpellEntry[NumberOfFoundSpells];
+        NumberOfFoundSpells = 0; //Now we use it to keep track of where in the final array we are
+        for (int i = 0; i < spell_arr.length; i++) {
+            if (spell_arr[i] != null) {
+                finalArr[NumberOfFoundSpells] = spell_arr[i];
+                NumberOfFoundSpells++;
+            }
+        }
 
 
-        return GeneratedNPCArrayList;
+        Random random = new Random();
+        //Returns an random Spell Object
+        return finalArr[random.nextInt(NumberOfFoundSpells)];
+
+
+
+
     }
 
 
