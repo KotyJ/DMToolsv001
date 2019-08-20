@@ -40,90 +40,90 @@
         <RadioButton
             android:id="@+id/CantripRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Cantrip "
             android:textAlignment="gravity" />
 
         <RadioButton
             android:id="@+id/Level1RadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Level 1"
             android:textAlignment="gravity" />
 
         <RadioButton
             android:id="@+id/Level2RadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Level 2"
             android:textAlignment="gravity" />
 
         <RadioButton
             android:id="@+id/Level3RadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Level 3"
             android:textAlignment="gravity" />
 
         <RadioButton
             android:id="@+id/Level4RadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Level 4"
             android:textAlignment="gravity" />
 
         <RadioButton
             android:id="@+id/Level5RadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Level 5"
             android:textAlignment="gravity" />
 
         <RadioButton
             android:id="@+id/Level6RadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Level 6"
             android:textAlignment="gravity" />
 
         <RadioButton
             android:id="@+id/Level7RadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Level 7"
             android:textAlignment="gravity" />
 
         <RadioButton
             android:id="@+id/Level8RadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Level 8 "
             android:textAlignment="gravity" />
 
         <RadioButton
             android:id="@+id/Level9RadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Level 9"
             android:textAlignment="gravity" />
 
@@ -140,73 +140,73 @@
         <RadioButton
             android:id="@+id/AnySchoolRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Any School " />
 
         <RadioButton
             android:id="@+id/AbjurationRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Abjuration " />
 
         <RadioButton
             android:id="@+id/ConjurationRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Conjuration " />
 
         <RadioButton
             android:id="@+id/DivinationSelectRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Divination " />
 
         <RadioButton
             android:id="@+id/EnchantmentSelectRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Enchantment " />
 
         <RadioButton
             android:id="@+id/EvocationSelectRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Evocation " />
 
         <RadioButton
             android:id="@+id/IllusionSelectRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Illusion " />
 
         <RadioButton
             android:id="@+id/NecromancySelectRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Necromancy " />
 
         <RadioButton
             android:id="@+id/TransmutationSelectRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Transmutation " />
 
     </RadioGroup>
@@ -216,88 +216,87 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:checkedButton="@id/AnyClassRadioButton"
-        android:padding="0"
         app:layout_constraintStart_toStartOf="@+id/textView15"
         app:layout_constraintTop_toBottomOf="@+id/textView15">
 
         <RadioButton
             android:id="@+id/AnyClassRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Any" />
 
         <RadioButton
             android:id="@+id/ArtificerRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Artificer " />
 
         <RadioButton
             android:id="@+id/BarbarianRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Barbarian " />
 
         <RadioButton
             android:id="@+id/BardRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Bard " />
 
         <RadioButton
             android:id="@+id/ClericRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Cleric " />
 
         <RadioButton
             android:id="@+id/DruidRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Druid " />
 
         <RadioButton
             android:id="@+id/FighterRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Fighter " />
 
         <RadioButton
             android:id="@+id/PaladinRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Paladin " />
 
         <RadioButton
             android:id="@+id/WarlockRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Warlock " />
 
         <RadioButton
             android:id="@+id/WizardRadioButton"
             android:layout_width="match_parent"
-            android:layout_height="35dp"
+            android:layout_height="30dp"
             android:layout_weight="1"
-            android:padding="8dp"
+            android:padding="0.1dp"
             android:text="Wizard " />
 
     </RadioGroup>
@@ -306,13 +305,11 @@
         android:id="@+id/ResultsLayout"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.427"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/ClassSelectRadioGroup">
+        app:layout_constraintStart_toStartOf="parent">
 
         <TableRow
             android:id="@+id/tableRow2"
