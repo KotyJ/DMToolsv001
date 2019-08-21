@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpellList>
+    <spell>
+        <name>Edritch Blast</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Warlock</classes>
+    </spell>
+
+    <spell>
+        <name>Finger of Death</name>
+        <level>7</level>
+        <school>Necromancy</school>
+        <classes>Sorcerer, Warlock, Wizard</classes>
+    </spell>
+
+
+
+</SpellList>

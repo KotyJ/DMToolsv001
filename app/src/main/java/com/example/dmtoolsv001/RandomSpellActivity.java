@@ -3,27 +3,22 @@ package com.example.dmtoolsv001;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
-import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
-
-import org.w3c.dom.Text;
+import android.widget.Toast;
 
 import java.util.Arrays;
-import java.util.logging.Level;
 
 public class RandomSpellActivity extends AppCompatActivity {
 
     BackgroundOperations BGO = new BackgroundOperations();
 
-    private RadioGroup LevelSelectRadioGroup;
-    private RadioGroup ClassSelectRadioGroup;
-    private RadioGroup SchoolSelectRadioButton;
-    private Button GenerateButton;
+    RadioGroup LevelSelectRadioGroup;
+    RadioGroup ClassSelectRadioGroup;
+    RadioGroup SchoolSelectRadioButton;
+    Button GenerateButton;
 
     public int UserInputLevel;
     public String UserInputSchoolOfMagic;
@@ -32,7 +27,7 @@ public class RandomSpellActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_random_spell);
+        setContentView(R.layout.activity_randomspell);
         //Initialize XML connections
         LevelSelectRadioGroup = findViewById(R.id.LevelSelectRadioGroup);
         ClassSelectRadioGroup = findViewById(R.id.ClassSelectRadioGroup);
@@ -100,14 +95,18 @@ public class RandomSpellActivity extends AppCompatActivity {
         ClassSelectRadioGroup.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(RadioGroup radioGroup, int CheckedButtonID) {
-                if(CheckedButtonID == R.id.BarbarianRadioButton){
-                    UserInputCharacterClass = "barbarian";
+                if(CheckedButtonID == R.id.RogueRadioButton){
+                    UserInputCharacterClass = "rogue";
                 } else if(CheckedButtonID == R.id.BardRadioButton){
                     UserInputCharacterClass = "bard";
                 } else if(CheckedButtonID == R.id.ClericRadioButton){
                     UserInputCharacterClass = "cleric";
                 } else if(CheckedButtonID == R.id.DruidRadioButton){
                     UserInputCharacterClass = "druid";
+                } else if(CheckedButtonID == R.id.SorcererRadioButton){
+                    UserInputCharacterClass = "sorcerer";
+                } else if(CheckedButtonID == R.id.WizardRadioButton){
+                    UserInputCharacterClass = "wizard";
                 } else if(CheckedButtonID == R.id.FighterRadioButton){
                     UserInputCharacterClass = "fighter";
                 } else if(CheckedButtonID == R.id.PaladinRadioButton){
@@ -121,37 +120,27 @@ public class RandomSpellActivity extends AppCompatActivity {
                 }
             }
         });
-        GenerateButton = (Button)findViewById(R.id.GenerateButton);
+        GenerateButton = findViewById(R.id.GenerateButton);
         GenerateButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
                 //create new spell using inputs
-                SpellEntry ReturnedSpell = BGO.GetSpellMethod(UserInputLevel, UserInputSchoolOfMagic, UserInputCharacterClass);
+                SpellEntry ReturnedSpell = BGO.GetSpellMethod(RandomSpellActivity.this, UserInputLevel, UserInputSchoolOfMagic, UserInputCharacterClass);
 
                 //check if returnedspell is null
                 if(ReturnedSpell == null){
-                    //initialize textviews
-                    TextView ChosenSpellNameTextView = (TextView) findViewById(R.id.ChosenSpellNameTextView);
-                    TextView ChosenSpellLevelTextView = (TextView) findViewById(R.id.ChosenSpellLevelTextView);
-                    TextView ChosenSpellSchoolTextView = (TextView) findViewById(R.id.ChosenSpellSchoolTextView);
-                    TextView ChosenSpellClassesTextView = (TextView) findViewById(R.id.ChosenSpellClassesTextView);
-
-                    //set textviews
-                    ChosenSpellNameTextView.setText("Could not find spell matching criteria");
-                    ChosenSpellLevelTextView.setText("Try again");
-                    ChosenSpellSchoolTextView.setText("");
-                    ChosenSpellClassesTextView.setText("");
+                    Toast.makeText(getApplicationContext(), "Unable to find spell matching criteria. Please try again", Toast.LENGTH_LONG).show();
 
 
 
                 } else {
 
                     //initialize textviews
-                    TextView ChosenSpellNameTextView = (TextView) findViewById(R.id.ChosenSpellNameTextView);
-                    TextView ChosenSpellLevelTextView = (TextView) findViewById(R.id.ChosenSpellLevelTextView);
-                    TextView ChosenSpellSchoolTextView = (TextView) findViewById(R.id.ChosenSpellSchoolTextView);
-                    TextView ChosenSpellClassesTextView = (TextView) findViewById(R.id.ChosenSpellClassesTextView);
+                    TextView ChosenSpellNameTextView = findViewById(R.id.ChosenSpellNameTextView);
+                    TextView ChosenSpellLevelTextView = findViewById(R.id.ChosenSpellLevelTextView);
+                    TextView ChosenSpellSchoolTextView = findViewById(R.id.ChosenSpellSchoolTextView);
+                    TextView ChosenSpellClassesTextView = findViewById(R.id.ChosenSpellClassesTextView);
 
                     //set textviews
                     ChosenSpellNameTextView.setText(ReturnedSpell.getName());

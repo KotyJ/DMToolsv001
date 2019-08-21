@@ -241,14 +241,6 @@
             android:text="Artificer " />
 
         <RadioButton
-            android:id="@+id/BarbarianRadioButton"
-            android:layout_width="match_parent"
-            android:layout_height="30dp"
-            android:layout_weight="1"
-            android:padding="0.1dp"
-            android:text="Barbarian " />
-
-        <RadioButton
             android:id="@+id/BardRadioButton"
             android:layout_width="match_parent"
             android:layout_height="30dp"
@@ -287,6 +279,14 @@
             android:layout_weight="1"
             android:padding="0.1dp"
             android:text="Paladin " />
+
+        <RadioButton
+            android:id="@+id/RogueRadioButton"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_weight="1"
+            android:padding="0.1dp"
+            android:text="Rogue " />
 
         <RadioButton
             android:id="@+id/SorcererRadioButton"
@@ -333,14 +333,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Spell Name:"
-                android:textSize="36sp"
+                android:textSize="24sp"
                 android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/ChosenSpellNameTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -352,14 +352,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Level:"
-                android:textSize="36sp"
+                android:textSize="24sp"
                 android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/ChosenSpellLevelTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -372,14 +372,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="School Of Magic:"
-                android:textSize="36sp"
+                android:textSize="24sp"
                 android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/ChosenSpellSchoolTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
         </TableRow>
 
         <TableRow
@@ -391,14 +391,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Classes Available:"
-                android:textSize="36sp"
+                android:textSize="24sp"
                 android:textStyle="bold" />
 
             <TextView
                 android:id="@+id/ChosenSpellClassesTextView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="36sp" />
+                android:textSize="24sp" />
         </TableRow>
     </TableLayout>
 

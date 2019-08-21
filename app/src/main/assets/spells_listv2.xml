@@ -1,0 +1,2445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpellList>
+    <spell>
+        <name>Abi-Dalzim's Horrid Wilting</name>
+        <level>8</level>
+        <school>Necromancy</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Absorb Elements</name>
+        <level>1</level>
+        <school>Abjuration</school>
+        <classes>Druid,Ranger,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Acid Splash</name>
+        <level>0</level>
+        <school>Conjuration</school>
+        <classes>Sorcerer,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Aganazzar's Scorcher</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Aid</name>
+        <level>2</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Cleric,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Alarm</name>
+        <level>1</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Ranger,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Alter Self</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Animal Friendship</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Bard,Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Animal Messenger</name>
+        <level>2</level>
+        <school>Enchantment</school>
+        <classes>Bard,Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Animal Shapes</name>
+        <level>8</level>
+        <school>Transmutation</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Animate Dead</name>
+        <level>3</level>
+        <school>Necromancy</school>
+        <classes>Cleric,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Animate Objects</name>
+        <level>5</level>
+        <school>Transmutation</school>
+        <classes>Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Antimagic Field</name>
+        <level>8</level>
+        <school>Abjuration</school>
+        <classes>Cleric,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Antipathy/Sympathy</name>
+        <level>8</level>
+        <school>Enchantment</school>
+        <classes>Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Arcane Eye</name>
+        <level>4</level>
+        <school>Divination</school>
+        <classes>Artificer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Arcane Gate</name>
+        <level>6</level>
+        <school>Conjuration</school>
+        <classes>Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Arcane Lock</name>
+        <level>2</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Armor of Agathys</name>
+        <level>1</level>
+        <school>Abjuration</school>
+        <classes>Warlock</classes>
+    </spell>
+    <spell>
+        <name>Arms of Hadar</name>
+        <level>1</level>
+        <school>Conjuration</school>
+        <classes>Warlock</classes>
+    </spell>
+    <spell>
+        <name>Astral Projection</name>
+        <level>9</level>
+        <school>Necromancy</school>
+        <classes>Cleric,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Augury</name>
+        <level>2</level>
+        <school>Divination</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Aura of Life</name>
+        <level>4</level>
+        <school>Abjuration</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Aura of Purity</name>
+        <level>4</level>
+        <school>Abjuration</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Aura of Vitality</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Awaken</name>
+        <level>5</level>
+        <school>Transmutation</school>
+        <classes>Bard,Druid</classes>
+    </spell>
+    <spell>
+        <name>Bane</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Bard,Cleric</classes>
+    </spell>
+    <spell>
+        <name>Banishing Smite</name>
+        <level>5</level>
+        <school>Abjuration</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Banishment</name>
+        <level>4</level>
+        <school>Abjuration</school>
+        <classes>Cleric,Paladin,Sorcerer,Warlock,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Barkskin</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Beacon of Hope</name>
+        <level>3</level>
+        <school>Abjuration</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Beast Bond</name>
+        <level>1</level>
+        <school>Divination</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Beast Sense</name>
+        <level>2</level>
+        <school>Divination</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Bestow Curse</name>
+        <level>3</level>
+        <school>Necromancy</school>
+        <classes>Bard,Cleric,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Bigby's Hand</name>
+        <level>5</level>
+        <school>Evocation</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Blade Barrier</name>
+        <level>6</level>
+        <school>Evocation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Blade Ward</name>
+        <level>0</level>
+        <school>Abjuration</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Bless</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Cleric,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Blight</name>
+        <level>4</level>
+        <school>Necromancy</school>
+        <classes>Druid,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Blinding Smite</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Blindness/Deafness</name>
+        <level>2</level>
+        <school>Necromancy</school>
+        <classes>Bard,Cleric,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Blink</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Blur</name>
+        <level>2</level>
+        <school>Illusion</school>
+        <classes>Artificer,Sorcerer,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Bones of the Earth</name>
+        <level>6</level>
+        <school>Transmutation</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Booming Blade</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Branding Smite</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Burning Hands</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Call Lightning</name>
+        <level>3</level>
+        <school>Conjuration</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Calm Emotions</name>
+        <level>2</level>
+        <school>Enchantment</school>
+        <classes>Bard,Cleric</classes>
+    </spell>
+    <spell>
+        <name>Catapult</name>
+        <level>1</level>
+        <school>Transmutation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Chain Lightning</name>
+        <level>6</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Charm Person</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Bard,Druid,Sorcerer,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Chill Touch</name>
+        <level>0</level>
+        <school>Necromancy</school>
+        <classes>Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Chromatic Orb</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Circle of Death</name>
+        <level>6</level>
+        <school>Necromancy</school>
+        <classes>Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Circle of Power</name>
+        <level>5</level>
+        <school>Abjuration</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Clairvoyance</name>
+        <level>3</level>
+        <school>Divination</school>
+        <classes>Bard,Cleric,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Clone</name>
+        <level>8</level>
+        <school>Necromancy</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Cloud of Daggers</name>
+        <level>2</level>
+        <school>Conjuration</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Cloudkill</name>
+        <level>5</level>
+        <school>Conjuration</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Color Spray</name>
+        <level>1</level>
+        <school>Illusion</school>
+        <classes>Sorcerer,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Command</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Cleric,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Commune</name>
+        <level>5</level>
+        <school>Divination</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Commune with Nature</name>
+        <level>5</level>
+        <school>Divination</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Compelled Duel</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Comprehend Languages</name>
+        <level>1</level>
+        <school>Divination</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Compulsion</name>
+        <level>4</level>
+        <school>Enchantment</school>
+        <classes>Bard</classes>
+    </spell>
+    <spell>
+        <name>Cone of Cold</name>
+        <level>5</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Confusion</name>
+        <level>4</level>
+        <school>Enchantment</school>
+        <classes>Bard,Druid,Sorcerer,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Conjure Animals</name>
+        <level>3</level>
+        <school>Conjuration</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Conjure Barrage</name>
+        <level>3</level>
+        <school>Conjuration</school>
+        <classes>Ranger</classes>
+    </spell>
+    <spell>
+        <name>Conjure Celestial</name>
+        <level>7</level>
+        <school>Conjuration</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Conjure Elemental</name>
+        <level>5</level>
+        <school>Conjuration</school>
+        <classes>Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Conjure Fey</name>
+        <level>6</level>
+        <school>Conjuration</school>
+        <classes>Druid,Warlock</classes>
+    </spell>
+    <spell>
+        <name>Conjure Minor Elementals</name>
+        <level>4</level>
+        <school>Conjuration</school>
+        <classes>Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Conjure Volley</name>
+        <level>5</level>
+        <school>Conjuration</school>
+        <classes>Ranger</classes>
+    </spell>
+    <spell>
+        <name>Conjure Woodland Beings</name>
+        <level>4</level>
+        <school>Conjuration</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Contact Other Plane</name>
+        <level>5</level>
+        <school>Divination</school>
+        <classes>Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Contagion</name>
+        <level>5</level>
+        <school>Necromancy</school>
+        <classes>Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Contingency</name>
+        <level>6</level>
+        <school>Evocation</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Continual Flame</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Artificer,Cleric,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Control Flames</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Wizard,Rogue,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Control Water</name>
+        <level>4</level>
+        <school>Transmutation</school>
+        <classes>Cleric,Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Control Weather</name>
+        <level>8</level>
+        <school>Transmutation</school>
+        <classes>Cleric,Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Control Winds</name>
+        <level>5</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Cordon of Arrows</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Ranger</classes>
+    </spell>
+    <spell>
+        <name>Counterspell</name>
+        <level>3</level>
+        <school>Abjuration</school>
+        <classes>Sorcerer,Warlock,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Create Bonfire</name>
+        <level>0</level>
+        <school>Conjuration</school>
+        <classes>Druid,Sorcerer,Warlock,Wizard,Rogue,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Create Food and Water</name>
+        <level>3</level>
+        <school>Conjuration</school>
+        <classes>Cleric,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Create Undead</name>
+        <level>6</level>
+        <school>Necromancy</school>
+        <classes>Cleric,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Create or Destroy Water</name>
+        <level>1</level>
+        <school>Transmutation</school>
+        <classes>Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Creation</name>
+        <level>5</level>
+        <school>Illusion</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Crown of Madness</name>
+        <level>2</level>
+        <school>Enchantment</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Crusader's Mantle</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Cure Wounds</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Artificer,Bard,Cleric,Druid,Paladin,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Dancing Lights</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Bard,Sorcerer,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Darkness</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Warlock,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Darkvision</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Druid,Ranger,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Daylight</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Cleric,Druid,Paladin,Ranger,Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Death Ward</name>
+        <level>4</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Cleric,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Delayed Blast Fireball</name>
+        <level>7</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Demiplane</name>
+        <level>8</level>
+        <school>Conjuration</school>
+        <classes>Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Destructive Wave</name>
+        <level>5</level>
+        <school>Evocation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Detect Evil and Good</name>
+        <level>1</level>
+        <school>Divination</school>
+        <classes>Cleric,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Detect Magic</name>
+        <level>1</level>
+        <school>Divination</school>
+        <classes>Bard,Cleric,Druid,Paladin,Ranger,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Detect Poison and Disease</name>
+        <level>1</level>
+        <school>Divination</school>
+        <classes>Cleric,Druid,Paladin,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Detect Thoughts</name>
+        <level>2</level>
+        <school>Divination</school>
+        <classes>Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Dimension Door</name>
+        <level>4</level>
+        <school>Conjuration</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Disguise Self</name>
+        <level>1</level>
+        <school>Illusion</school>
+        <classes>Artificer,Bard,Sorcerer,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Disintegrate</name>
+        <level>6</level>
+        <school>Transmutation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Dispel Evil and Good</name>
+        <level>5</level>
+        <school>Abjuration</school>
+        <classes>Cleric,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Dispel Magic</name>
+        <level>3</level>
+        <school>Abjuration</school>
+        <classes>Bard,Cleric,Druid,Paladin,Sorcerer,Warlock,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Dissonant Whispers</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Bard</classes>
+    </spell>
+    <spell>
+        <name>Divination</name>
+        <level>4</level>
+        <school>Divination</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Divine Favor</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Divine Word</name>
+        <level>7</level>
+        <school>Evocation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Dominate Beast</name>
+        <level>4</level>
+        <school>Enchantment</school>
+        <classes>Druid,Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Dominate Monster</name>
+        <level>8</level>
+        <school>Enchantment</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Dominate Person</name>
+        <level>5</level>
+        <school>Enchantment</school>
+        <classes>Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Drawmij's Instant Summon</name>
+        <level>6</level>
+        <school>Conjuration</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Dream</name>
+        <level>5</level>
+        <school>Illusion</school>
+        <classes>Bard,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Druidcraft</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Druid</classes>
+    </spell>
+        <spell>
+        <name>Dust Devil</name>
+        <level>2</level>
+        <school>Conjuration</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Earth Tremor</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Bard,Druid,Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Earthbind</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Earthquake</name>
+        <level>8</level>
+        <school>Evocation</school>
+        <classes>Cleric,Druid,Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Eldritch Blast</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Warlock</classes>
+    </spell>
+    <spell>
+        <name>Elemental Bane</name>
+        <level>4</level>
+        <school>Transmutation</school>
+        <classes>Druid,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Elemental Weapon</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Enhance Ability</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Bard,Cleric,Druid,Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Enlarge/Reduce</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Ensnaring Strike</name>
+        <level>1</level>
+        <school>Conjuration</school>
+        <classes>Ranger</classes>
+    </spell>
+    <spell>
+        <name>Entangle</name>
+        <level>1</level>
+        <school>Conjuration</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Enthrall</name>
+        <level>2</level>
+        <school>Enchantment</school>
+        <classes>Bard,Warlock</classes>
+    </spell>
+    <spell>
+        <name>Erupting Earth</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Etherealness</name>
+        <level>7</level>
+        <school>Transmutation</school>
+        <classes>Bard,Cleric,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Evard's Black Tentacles</name>
+        <level>4</level>
+        <school>Conjuration</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Expeditious Retreat</name>
+        <level>1</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Eyebite</name>
+        <level>6</level>
+        <school>Necromancy</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fabricate</name>
+        <level>4</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Faerie Fire</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Bard,Druid</classes>
+    </spell>
+    <spell>
+        <name>False Life</name>
+        <level>1</level>
+        <school>Necromancy</school>
+        <classes>Artificer,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fear</name>
+        <level>3</level>
+        <school>Illusion</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Feather Fall</name>
+        <level>1</level>
+        <school>Transmutation</school>
+        <classes>Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Feeblemind</name>
+        <level>8</level>
+        <school>Enchantment</school>
+        <classes>Bard,Druid,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Feign Death</name>
+        <level>3</level>
+        <school>Necromancy</school>
+        <classes>Bard,Cleric,Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Find Familiar</name>
+        <level>1</level>
+        <school>Conjuration</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Find Steed</name>
+        <level>2</level>
+        <school>Conjuration</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Find Traps</name>
+        <level>2</level>
+        <school>Divination</school>
+        <classes>Cleric,Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Find the Path</name>
+        <level>6</level>
+        <school>Divination</school>
+        <classes>Bard,Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Finger of Death</name>
+        <level>7</level>
+        <school>Necromancy</school>
+        <classes>Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fire Bolt</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Fire Shield</name>
+        <level>4</level>
+        <school>Evocation</school>
+        <classes>Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Fire Storm</name>
+        <level>7</level>
+        <school>Evocation</school>
+        <classes>Cleric,Druid,Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Fireball</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Flame Arrows</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Druid,Ranger,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Flame Blade</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Flame Strike</name>
+        <level>5</level>
+        <school>Evocation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Flaming Sphere</name>
+        <level>2</level>
+        <school>Conjuration</school>
+        <classes>Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Flesh to Stone</name>
+        <level>6</level>
+        <school>Transmutation</school>
+        <classes>Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fly</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Fog Cloud</name>
+        <level>1</level>
+        <school>Conjuration</school>
+        <classes>Druid,Ranger,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Forbiddance</name>
+        <level>6</level>
+        <school>Abjuration</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Forcecage</name>
+        <level>7</level>
+        <school>Evocation</school>
+        <classes>Bard,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Foresight</name>
+        <level>9</level>
+        <school>Divination</school>
+        <classes>Bard,Druid,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Freedom of Movement</name>
+        <level>4</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Bard,Cleric,Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Friends</name>
+        <level>0</level>
+        <school>Enchantment</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Frostbite</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Druid,Sorcerer,Warlock,Wizard,Rogue,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Gaseous Form</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Gate</name>
+        <level>9</level>
+        <school>Conjuration</school>
+        <classes>Cleric,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Geas</name>
+        <level>5</level>
+        <school>Enchantment</school>
+        <classes>Bard,Cleric,Druid,Paladin,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Gentle Repose</name>
+        <level>2</level>
+        <school>Necromancy</school>
+        <classes>Cleric,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Giant Insect</name>
+        <level>4</level>
+        <school>Transmutation</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Glibness</name>
+        <level>8</level>
+        <school>Transmutation</school>
+        <classes>Bard,Warlock</classes>
+    </spell>
+    <spell>
+        <name>Globe of Invulnerability</name>
+        <level>6</level>
+        <school>Abjuration</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Glyph of Warding</name>
+        <level>3</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Bard,Cleric,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Goodberry</name>
+        <level>1</level>
+        <school>Transmutation</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Grasping Vine</name>
+        <level>4</level>
+        <school>Conjuration</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Grease</name>
+        <level>1</level>
+        <school>Conjuration</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Greater Invisibility</name>
+        <level>4</level>
+        <school>Illusion</school>
+        <classes>Bard,Sorcerer,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Greater Restoration</name>
+        <level>5</level>
+        <school>Abjuration</school>
+        <classes>Bard,Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Green-Flame Blade</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Guardian of Faith</name>
+        <level>4</level>
+        <school>Conjuration</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Guards and Wards</name>
+        <level>6</level>
+        <school>Abjuration</school>
+        <classes>Bard,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Guidance</name>
+        <level>0</level>
+        <school>Divination</school>
+        <classes>Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Guiding Bolt</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Gust</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Wizard,Rogue,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Gust of Wind</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Druid,Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Hail of Thorns</name>
+        <level>1</level>
+        <school>Conjuration</school>
+        <classes>Ranger</classes>
+    </spell>
+    <spell>
+        <name>Hallow</name>
+        <level>5</level>
+        <school>Evocation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Hallucinatory Terrain</name>
+        <level>4</level>
+        <school>Illusion</school>
+        <classes>Bard,Druid,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Harm</name>
+        <level>6</level>
+        <school>Necromancy</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Haste</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Heal</name>
+        <level>6</level>
+        <school>Evocation</school>
+        <classes>Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Healing Word</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Bard,Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Heat Metal</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Bard,Druid</classes>
+    </spell>
+    <spell>
+        <name>Hellish Rebuke</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Warlock</classes>
+    </spell>
+    <spell>
+        <name>Heroes' Feast</name>
+        <level>6</level>
+        <school>Conjuration</school>
+        <classes>Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Heroism</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Bard,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Hex</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Warlock</classes>
+    </spell>
+    <spell>
+        <name>Hold Monster</name>
+        <level>5</level>
+        <school>Enchantment</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Hold Person</name>
+        <level>2</level>
+        <school>Enchantment</school>
+        <classes>Bard,Cleric,Druid,Sorcerer,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Holy Aura</name>
+        <level>8</level>
+        <school>Abjuration</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Hunger of Hadar</name>
+        <level>3</level>
+        <school>Conjuration</school>
+        <classes>Warlock</classes>
+    </spell>
+    <spell>
+        <name>Hunter's Mark</name>
+        <level>1</level>
+        <school>Divination</school>
+        <classes>Ranger</classes>
+    </spell>
+    <spell>
+        <name>Hypnotic Pattern</name>
+        <level>3</level>
+        <school>Illusion</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Ice Knife</name>
+        <level>1</level>
+        <school>Conjuration</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Ice Storm</name>
+        <level>4</level>
+        <school>Evocation</school>
+        <classes>Druid,Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Identify</name>
+        <level>1</level>
+        <school>Divination</school>
+        <classes>Bard,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Illusory Script</name>
+        <level>1</level>
+        <school>Illusion</school>
+        <classes>Bard,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Immolation</name>
+        <level>5</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Imprisonment</name>
+        <level>9</level>
+        <school>Abjuration</school>
+        <classes>Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Incendiary Cloud</name>
+        <level>8</level>
+        <school>Conjuration</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Inflict Wounds</name>
+        <level>1</level>
+        <school>Necromancy</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Insect Plague</name>
+        <level>5</level>
+        <school>Conjuration</school>
+        <classes>Cleric,Druid,Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Investiture of Flame</name>
+        <level>6</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Investiture of Ice</name>
+        <level>6</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Investiture of Stone</name>
+        <level>6</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Investiture of Wind</name>
+        <level>6</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Invisibility</name>
+        <level>2</level>
+        <school>Illusion</school>
+        <classes>Artificer,Bard,Sorcerer,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Jump</name>
+        <level>1</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Druid,Ranger,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Knock</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Legend Lore</name>
+        <level>5</level>
+        <school>Divination</school>
+        <classes>Bard,Cleric,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Leomund's Secret Chest</name>
+        <level>4</level>
+        <school>Conjuration</school>
+        <classes>Artificer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Leomund's Tiny Hut</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Bard,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Lesser Restoration</name>
+        <level>2</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Bard,Cleric,Druid,Paladin,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Levitate</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Light</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Bard,Cleric,Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Lightning Arrow</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Ranger</classes>
+    </spell>
+    <spell>
+        <name>Lightning Bolt</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Lightning Lure</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Locate Animals or Plants</name>
+        <level>2</level>
+        <school>Divination</school>
+        <classes>Bard,Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Locate Creature</name>
+        <level>4</level>
+        <school>Divination</school>
+        <classes>Bard,Cleric,Druid,Paladin,Ranger,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Locate Object</name>
+        <level>2</level>
+        <school>Divination</school>
+        <classes>Bard,Cleric,Druid,Paladin,Ranger,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Longstrider</name>
+        <level>1</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Bard,Druid,Ranger,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Maelstrom</name>
+        <level>5</level>
+        <school>Evocation</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Mage Armor</name>
+        <level>1</level>
+        <school>Abjuration</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Mage Hand</name>
+        <level>0</level>
+        <school>Conjuration</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Magic Circle</name>
+        <level>3</level>
+        <school>Abjuration</school>
+        <classes>Cleric,Paladin,Warlock,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Magic Jar</name>
+        <level>6</level>
+        <school>Necromancy</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Magic Missile</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Magic Mouth</name>
+        <level>2</level>
+        <school>Illusion</school>
+        <classes>Bard,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Magic Stone</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Druid,Warlock</classes>
+    </spell>
+    <spell>
+        <name>Magic Weapon</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Paladin,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Major Image</name>
+        <level>3</level>
+        <school>Illusion</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Mass Cure Wounds</name>
+        <level>5</level>
+        <school>Evocation</school>
+        <classes>Bard,Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Mass Heal</name>
+        <level>9</level>
+        <school>Evocation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Mass Healing Word</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Mass Suggestion</name>
+        <level>6</level>
+        <school>Enchantment</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Maximilian's Earthen Grasp</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Maze</name>
+        <level>8</level>
+        <school>Conjuration</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Meld into Stone</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Melf's Acid Arrow</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Melf's Minute Meteors</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Mending</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Bard,Cleric,Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Message</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Bard,Sorcerer,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Meteor Swarm</name>
+        <level>9</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mind Blank</name>
+        <level>8</level>
+        <school>Abjuration</school>
+        <classes>Bard,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Minor Illusion</name>
+        <level>0</level>
+        <school>Illusion</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Rogue,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Mirage Arcane</name>
+        <level>7</level>
+        <school>Illusion</school>
+        <classes>Bard,Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mirror Image</name>
+        <level>2</level>
+        <school>Illusion</school>
+        <classes>Sorcerer,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Mislead</name>
+        <level>5</level>
+        <school>Illusion</school>
+        <classes>Bard,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Misty Step</name>
+        <level>2</level>
+        <school>Conjuration</school>
+        <classes>Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Modify Memory</name>
+        <level>5</level>
+        <school>Enchantment</school>
+        <classes>Bard,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mold Earth</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Wizard,Rogue,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Moonbeam</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Mordenkainen's Faithful Hound</name>
+        <level>4</level>
+        <school>Conjuration</school>
+        <classes>Artificer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mordenkainen's Magnificent Mansion</name>
+        <level>7</level>
+        <school>Conjuration</school>
+        <classes>Bard,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Mordenkainen's Private Sanctum</name>
+        <level>4</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Mordenkainen's Sword</name>
+        <level>7</level>
+        <school>Evocation</school>
+        <classes>Bard,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Move Earth</name>
+        <level>6</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Nondetection</name>
+        <level>3</level>
+        <school>Abjuration</school>
+        <classes>Bard,Ranger,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Nystul's Magic Aura</name>
+        <level>2</level>
+        <school>Illusion</school>
+        <classes>Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Otiluke's Freezing Sphere</name>
+        <level>6</level>
+        <school>Evocation</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Otiluke's Resilient Sphere</name>
+        <level>4</level>
+        <school>Evocation</school>
+        <classes>Artificer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Otto's Irresistible Dance</name>
+        <level>6</level>
+        <school>Enchantment</school>
+        <classes>Bard,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Pass Without Trace</name>
+        <level>2</level>
+        <school>Abjuration</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Passwall</name>
+        <level>5</level>
+        <school>Transmutation</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Phantasmal Force</name>
+        <level>2</level>
+        <school>Illusion</school>
+        <classes>Bard,Sorcerer,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Phantasmal Killer</name>
+        <level>4</level>
+        <school>Illusion</school>
+        <classes>Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Phantom Steed</name>
+        <level>3</level>
+        <school>Illusion</school>
+        <classes>Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Planar Ally</name>
+        <level>6</level>
+        <school>Conjuration</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Planar Binding</name>
+        <level>5</level>
+        <school>Abjuration</school>
+        <classes>Bard,Cleric,Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Plane Shift</name>
+        <level>7</level>
+        <school>Conjuration</school>
+        <classes>Cleric,Druid,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Plant Growth</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Poison Spray</name>
+        <level>0</level>
+        <school>Conjuration</school>
+        <classes>Druid,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Polymorph</name>
+        <level>4</level>
+        <school>Transmutation</school>
+        <classes>Bard,Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Power Word Heal</name>
+        <level>9</level>
+        <school>Evocation</school>
+        <classes>Bard</classes>
+    </spell>
+    <spell>
+        <name>Power Word Kill</name>
+        <level>9</level>
+        <school>Enchantment</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Power Word Stun</name>
+        <level>8</level>
+        <school>Enchantment</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Prayer of Healing</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Prestidigitation</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Primordial Ward</name>
+        <level>6</level>
+        <school>Abjuration</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Prismatic Spray</name>
+        <level>7</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Prismatic Wall</name>
+        <level>9</level>
+        <school>Abjuration</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Produce Flame</name>
+        <level>0</level>
+        <school>Conjuration</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Programmed Illusion</name>
+        <level>6</level>
+        <school>Illusion</school>
+        <classes>Bard,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Project Image</name>
+        <level>7</level>
+        <school>Illusion</school>
+        <classes>Bard,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Protection from Energy</name>
+        <level>3</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Cleric,Druid,Ranger,Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Protection from Evil and Good</name>
+        <level>1</level>
+        <school>Abjuration</school>
+        <classes>Cleric,Paladin,Warlock,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Protection from Poison</name>
+        <level>2</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Cleric,Druid,Paladin,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Purify Food and Drink</name>
+        <level>1</level>
+        <school>Transmutation</school>
+        <classes>Cleric,Druid,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Pyrotechnics</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Raise Dead</name>
+        <level>5</level>
+        <school>Necromancy</school>
+        <classes>Bard,Cleric,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Rary's Telepathic Bond</name>
+        <level>5</level>
+        <school>Divination</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Ray of Enfeeblement</name>
+        <level>2</level>
+        <school>Necromancy</school>
+        <classes>Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Ray of Frost</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Ray of Sickness</name>
+        <level>1</level>
+        <school>Necromancy</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Regenerate</name>
+        <level>7</level>
+        <school>Transmutation</school>
+        <classes>Bard,Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Reincarnate</name>
+        <level>5</level>
+        <school>Transmutation</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Remove Curse</name>
+        <level>3</level>
+        <school>Abjuration</school>
+        <classes>Cleric,Paladin,Warlock,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Resistance</name>
+        <level>0</level>
+        <school>Abjuration</school>
+        <classes>Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>Resurrection</name>
+        <level>7</level>
+        <school>Necromancy</school>
+        <classes>Bard,Cleric</classes>
+    </spell>
+    <spell>
+        <name>Reverse Gravity</name>
+        <level>7</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Revivify</name>
+        <level>3</level>
+        <school>Necromancy</school>
+        <classes>Artificer,Cleric,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Rope Trick</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Sacred Flame</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Sanctuary</name>
+        <level>1</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Cleric)</classes>
+    </spell>
+    <spell>
+        <name>Scorching Ray</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Scrying</name>
+        <level>5</level>
+        <school>Divination</school>
+        <classes>Bard,Cleric,Druid,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Searing Smite</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>See Invisibility</name>
+        <level>2</level>
+        <school>Divination</school>
+        <classes>Artificer,Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Seeming</name>
+        <level>5</level>
+        <school>Illusion</school>
+        <classes>Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Sending</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Cleric,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Sequester</name>
+        <level>7</level>
+        <school>Transmutation</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Shape Water</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Druid,Sorcerer,Wizard,Rogue,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Shapechange</name>
+        <level>9</level>
+        <school>Transmutation</school>
+        <classes>Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Shatter</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Shield</name>
+        <level>1</level>
+        <school>Abjuration</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Shield of Faith</name>
+        <level>1</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Cleric,Paladin</classes>
+    </spell>
+    <spell>
+        <name>Shillelagh</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Shocking Grasp</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Silence</name>
+        <level>2</level>
+        <school>Illusion</school>
+        <classes>Bard,Cleric,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Silent Image</name>
+        <level>1</level>
+        <school>Illusion</school>
+        <classes>Bard,Sorcerer,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Simulacrum</name>
+        <level>7</level>
+        <school>Illusion</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Skywrite</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Bard,Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Sleep</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Bard,Sorcerer,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Sleet Storm</name>
+        <level>3</level>
+        <school>Conjuration</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Slow</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Snilloc's Snowball Swarm</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Spare the Dying</name>
+        <level>0</level>
+        <school>Necromancy</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Speak with Animals</name>
+        <level>1</level>
+        <school>Divination</school>
+        <classes>Bard,Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Speak with Dead</name>
+        <level>3</level>
+        <school>Necromancy</school>
+        <classes>Bard,Cleric</classes>
+    </spell>
+    <spell>
+        <name>Speak with Plants</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Bard,Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Spider Climb</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Spike Growth</name>
+        <level>2</level>
+        <school>Transmutation</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Spirit Guardians</name>
+        <level>3</level>
+        <school>Conjuration</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Spiritual Weapon</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Staggering Smite</name>
+        <level>4</level>
+        <school>Evocation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Stinking Cloud</name>
+        <level>3</level>
+        <school>Conjuration</school>
+        <classes>Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Stone Shape</name>
+        <level>4</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Cleric,Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Stoneskin</name>
+        <level>4</level>
+        <school>Abjuration</school>
+        <classes>Artificer,Druid,Ranger,Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Storm Sphere</name>
+        <level>4</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Storm of Vengeance</name>
+        <level>9</level>
+        <school>Conjuration</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Suggestion</name>
+        <level>2</level>
+        <school>Enchantment</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Sunbeam</name>
+        <level>6</level>
+        <school>Evocation</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Sunburst</name>
+        <level>8</level>
+        <school>Evocation</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Swift Quiver</name>
+        <level>5</level>
+        <school>Transmutation</school>
+        <classes>Ranger</classes>
+    </spell>
+    <spell>
+        <name>Sword Burst</name>
+        <level>0</level>
+        <school>Conjuration</school>
+        <classes>Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Symbol</name>
+        <level>7</level>
+        <school>Abjuration</school>
+        <classes>Bard,Cleric,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Tasha's Hideous Laughter</name>
+        <level>1</level>
+        <school>Enchantment</school>
+        <classes>Bard,Wizard,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Telekinesis</name>
+        <level>5</level>
+        <school>Transmutation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Telepathy</name>
+        <level>8</level>
+        <school>Evocation</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Teleport</name>
+        <level>7</level>
+        <school>Conjuration</school>
+        <classes>Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Teleportation Circle</name>
+        <level>5</level>
+        <school>Conjuration</school>
+        <classes>Bard,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Tenser's Floating Disk</name>
+        <level>1</level>
+        <school>Conjuration</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Thaumaturgy</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Thorn Whip</name>
+        <level>0</level>
+        <school>Transmutation</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Thunderclap</name>
+        <level>0</level>
+        <school>Evocation</school>
+        <classes>Bard,Druid,Sorcerer,Warlock,Wizard,Rogue,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Thunderous Smite</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Thunderwave</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Bard,Druid,Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Tidal Wave</name>
+        <level>3</level>
+        <school>Conjuration</school>
+        <classes>Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Time Stop</name>
+        <level>9</level>
+        <school>Transmutation</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Tongues</name>
+        <level>3</level>
+        <school>Divination</school>
+        <classes>Bard,Cleric,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Transmute Rock</name>
+        <level>5</level>
+        <school>Transmutation</school>
+        <classes>Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Transport via Plants</name>
+        <level>6</level>
+        <school>Conjuration</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Tree Stride</name>
+        <level>5</level>
+        <school>Conjuration</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>True Polymorph</name>
+        <level>9</level>
+        <school>Transmutation</school>
+        <classes>Bard,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>True Resurrection</name>
+        <level>9</level>
+        <school>Necromancy</school>
+        <classes>Cleric,Druid</classes>
+    </spell>
+    <spell>
+        <name>True Seeing</name>
+        <level>6</level>
+        <school>Divination</school>
+        <classes>Bard,Cleric,Sorcerer,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>True Strike</name>
+        <level>0</level>
+        <school>Divination</school>
+        <classes>Bard,Sorcerer,Warlock,Wizard,Fighter,Rogue</classes>
+    </spell>
+    <spell>
+        <name>Tsunami</name>
+        <level>8</level>
+        <school>Conjuration</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Unseen Servant</name>
+        <level>1</level>
+        <school>Conjuration</school>
+        <classes>Bard,Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Vampiric Touch</name>
+        <level>3</level>
+        <school>Necromancy</school>
+        <classes>Warlock,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Vicious Mockery</name>
+        <level>0</level>
+        <school>Enchantment</school>
+        <classes>Bard</classes>
+    </spell>
+    <spell>
+        <name>Vitriolic Sphere</name>
+        <level>4</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Wall of Fire</name>
+        <level>4</level>
+        <school>Evocation</school>
+        <classes>Druid,Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Wall of Force</name>
+        <level>5</level>
+        <school>Evocation</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Wall of Ice</name>
+        <level>6</level>
+        <school>Evocation</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Wall of Sand</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Wall of Stone</name>
+        <level>5</level>
+        <school>Evocation</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Wall of Thorns</name>
+        <level>6</level>
+        <school>Conjuration</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Wall of Water</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Druid,Sorcerer,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Warding Bond</name>
+        <level>2</level>
+        <school>Abjuration</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Warding Wind</name>
+        <level>2</level>
+        <school>Evocation</school>
+        <classes>Bard,Druid,Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Water Breathing</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Druid,Ranger,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Water Walk</name>
+        <level>3</level>
+        <school>Transmutation</school>
+        <classes>Artificer,Cleric,Druid,Ranger,Sorcerer</classes>
+    </spell>
+    <spell>
+        <name>Watery Sphere</name>
+        <level>4</level>
+        <school>Conjuration</school>
+        <classes>Druid,Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Web</name>
+        <level>2</level>
+        <school>Conjuration</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Weird</name>
+        <level>9</level>
+        <school>Illusion</school>
+        <classes>Wizard</classes>
+    </spell>
+    <spell>
+        <name>Whirlwind</name>
+        <level>7</level>
+        <school>Evocation</school>
+        <classes>Druid,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Wind Walk</name>
+        <level>6</level>
+        <school>Transmutation</school>
+        <classes>Druid</classes>
+    </spell>
+    <spell>
+        <name>Wind Wall</name>
+        <level>3</level>
+        <school>Evocation</school>
+        <classes>Druid,Ranger</classes>
+    </spell>
+    <spell>
+        <name>Wish</name>
+        <level>9</level>
+        <school>Conjuration</school>
+        <classes>Sorcerer,Wizard</classes>
+    </spell>
+    <spell>
+        <name>Witch Bolt</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Sorcerer,Warlock,Wizard,Fighter</classes>
+    </spell>
+    <spell>
+        <name>Word of Recall</name>
+        <level>6</level>
+        <school>Conjuration</school>
+        <classes>Cleric</classes>
+    </spell>
+    <spell>
+        <name>Wrathful Smite</name>
+        <level>1</level>
+        <school>Evocation</school>
+        <classes>Paladin</classes>
+    </spell>
+    <spell>
+        <name>Zone of Truth</name>
+        <level>2</level>
+        <school>Enchantment</school>
+        <classes>Bard,Cleric,Paladin</classes>
+    </spell>
+</SpellList>
