@@ -13,7 +13,7 @@ import java.util.Arrays;
 
 public class RandomSpellActivity extends AppCompatActivity {
 
-    BackgroundOperations BGO = new BackgroundOperations();
+    BackgroundOperationsRandomSpell BGO = new BackgroundOperationsRandomSpell();
 
     RadioGroup LevelSelectRadioGroup;
     RadioGroup ClassSelectRadioGroup;

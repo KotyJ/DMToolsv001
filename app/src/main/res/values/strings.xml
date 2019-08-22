@@ -5,6 +5,7 @@
         <item>Random Spell</item>
         <item>NPC Generator</item>
         <item>Loot Generator</item>
+        <item>Initiative Tracker</item>
     </string-array>
 
     <string-array name="MainActivityChoicesClasses">
@@ -12,6 +13,7 @@
         <item>com.example.dmtoolsv001.RandomSpellActivity</item>
         <item>com.example.dmtoolsv001.NPCGeneratorActivity</item>
         <item>com.example.dmtoolsv001.LootGeneratorActivity</item>
+        <item>com.example.dmtoolsv001.InitiativeTrackerIntroActivity</item>
     </string-array>
 
 </resources>

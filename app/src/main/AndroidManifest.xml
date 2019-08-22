@@ -9,8 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".InitiativeTrackerActivity"></activity>
-        <activity android:name=".RandomSpellActivity"></activity>
+        <activity android:name=".InitiativeTrackerIntroActivity" />
+        <activity android:name=".InitiativeTrackerActivity" />
+        <activity android:name=".RandomSpellActivity" />
         <activity android:name=".LootGeneratorActivity" />
         <activity android:name=".NPCGeneratorActivity" />
         <activity android:name=".DiceRollerActivity" />
